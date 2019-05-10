@@ -1,0 +1,2 @@
+it's just a exhibition of no-commercial study achievement, for other students to learn or reference.
+uncompress LoanStats3a 2018Q4.rar and run model.py frist to get df_data2.csv, then run model.py to show what happened.
